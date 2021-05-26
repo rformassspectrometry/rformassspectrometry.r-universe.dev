@@ -8,6 +8,14 @@
         "url": "https://github.com/rformassspectrometry/MsBackendMgf"
     },
     {
+        "package": "RforMassSpectrometry",
+        "url": "https://github.com/rformassspectrometry/RforMassSpectrometry"
+    },
+    {
+        "package": "QFeatures",
+        "url": "https://github.com/rformassspectrometry/QFeatures"
+    },
+    {
         "package": "MsCoreUtils",
         "url": "https://github.com/rformassspectrometry/MsCoreUtils"
     },

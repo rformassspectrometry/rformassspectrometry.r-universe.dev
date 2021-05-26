@@ -1,0 +1,18 @@
+[
+    {
+        "package": "Spectra",
+        "url": "https://github.com/rformassspectrometry/Spectra"
+    },
+    {
+        "package": "MsBackendMgf",
+        "url": "https://github.com/rformassspectrometry/MsBackendMgf"
+    },
+    {
+        "package": "MetaboCoreUtils",
+        "url": "https://github.com/rformassspectrometry/MetaboCoreUtils",
+    },
+    {
+        "package": "MsExperiment",
+        "url": "https://github.com/rformassspectrometry/MsExperiment",
+    }
+]

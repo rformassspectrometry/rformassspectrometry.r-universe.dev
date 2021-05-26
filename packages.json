@@ -8,11 +8,11 @@
         "url": "https://github.com/rformassspectrometry/MsBackendMgf"
     },
     {
-        "package": "MetaboCoreUtils",
-        "url": "https://github.com/rformassspectrometry/MetaboCoreUtils",
+        "package": "MsCoreUtils",
+        "url": "https://github.com/rformassspectrometry/MsCoreUtils"
     },
     {
         "package": "MsExperiment",
-        "url": "https://github.com/rformassspectrometry/MsExperiment",
+        "url": "https://github.com/rformassspectrometry/MsExperiment"
     }
 ]

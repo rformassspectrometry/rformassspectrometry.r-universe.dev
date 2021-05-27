@@ -24,6 +24,10 @@
         "url": "https://github.com/rformassspectrometry/MsCoreUtils"
     },
     {
+        "package": "MetaboCoreUtils",
+        "url": "https://github.com/rformassspectrometry/MetaboCoreUtils"
+    },
+    {
         "package": "MsExperiment",
         "url": "https://github.com/rformassspectrometry/MsExperiment"
     },

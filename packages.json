@@ -12,6 +12,10 @@
         "url": "https://github.com/rformassspectrometry/RforMassSpectrometry"
     },
     {
+        "package": "MsFeatures",
+        "url": "https://github.com/rformassspectrometry/MsFeatures"
+    },
+    {
         "package": "QFeatures",
         "url": "https://github.com/rformassspectrometry/QFeatures"
     },
@@ -22,5 +26,9 @@
     {
         "package": "MsExperiment",
         "url": "https://github.com/rformassspectrometry/MsExperiment"
+    },
+    {
+        "package": "MsBackendMassbank",
+        "url": "https://github.com/rformassspectrometry/MsBackendMassbank"
     }
 ]

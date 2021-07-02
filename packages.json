@@ -34,5 +34,9 @@
     {
         "package": "MsBackendMassbank",
         "url": "https://github.com/rformassspectrometry/MsBackendMassbank"
+    },
+    {
+        "package": "ProtGenerics",
+        "url": "https://github.com/rformassspectrometry/ProtGenerics"
     }
 ]

@@ -38,5 +38,9 @@
     {
         "package": "ProtGenerics",
         "url": "https://github.com/rformassspectrometry/ProtGenerics"
+    },
+    {
+        "package": "PSMatch",
+        "url": "https://github.com/rformassspectrometry/PSMatch"
     }
 ]

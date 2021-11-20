@@ -42,5 +42,9 @@
     {
         "package": "PSMatch",
         "url": "https://github.com/rformassspectrometry/PSMatch"
+    },
+    {
+        "package": "SpectraVis",
+        "url": "https://github.com/rformassspectrometry/SpectraVis"
     }
 ]

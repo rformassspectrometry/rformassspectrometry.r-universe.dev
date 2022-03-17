@@ -4,6 +4,10 @@
         "url": "https://github.com/rformassspectrometry/CompoundDb"
     },
     {
+        "package": "Chromatograms",
+        "url": "https://github.com/rformassspectrometry/Chromatograms"
+    },
+    {
         "package": "MetaboAnnotation",
         "url": "https://github.com/rformassspectrometry/MetaboAnnotation"
     },

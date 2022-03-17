@@ -1,39 +1,43 @@
 [
     {
-        "package": "Spectra",
-        "url": "https://github.com/rformassspectrometry/Spectra"
+        "package": "CompoundDb",
+        "url": "https://github.com/rformassspectrometry/CompoundDb"
     },
     {
-        "package": "MsBackendMgf",
-        "url": "https://github.com/rformassspectrometry/MsBackendMgf"
-    },
-    {
-        "package": "RforMassSpectrometry",
-        "url": "https://github.com/rformassspectrometry/RforMassSpectrometry"
-    },
-    {
-        "package": "MsFeatures",
-        "url": "https://github.com/rformassspectrometry/MsFeatures"
-    },
-    {
-        "package": "QFeatures",
-        "url": "https://github.com/rformassspectrometry/QFeatures"
-    },
-    {
-        "package": "MsCoreUtils",
-        "url": "https://github.com/rformassspectrometry/MsCoreUtils"
+        "package": "MetaboAnnotation",
+        "url": "https://github.com/rformassspectrometry/MetaboAnnotation"
     },
     {
         "package": "MetaboCoreUtils",
         "url": "https://github.com/rformassspectrometry/MetaboCoreUtils"
     },
     {
+        "package": "MsBackendMassbank",
+        "url": "https://github.com/rformassspectrometry/MsBackendMassbank"
+    },
+    {
+        "package": "MsBackendMgf",
+        "url": "https://github.com/rformassspectrometry/MsBackendMgf"
+    },
+    {
+        "package": "MsBackendMsp",
+        "url": "https://github.com/rformassspectrometry/MsBackendMsp"
+    },
+    {
+        "package": "MsCoreUtils",
+        "url": "https://github.com/rformassspectrometry/MsCoreUtils"
+    },
+    {
         "package": "MsExperiment",
         "url": "https://github.com/rformassspectrometry/MsExperiment"
     },
     {
-        "package": "MsBackendMassbank",
-        "url": "https://github.com/rformassspectrometry/MsBackendMassbank"
+        "package": "MsFeatures",
+        "url": "https://github.com/rformassspectrometry/MsFeatures"
+    },
+    {
+        "package": "MsQuantitation",
+        "url": "https://github.com/rformassspectrometry/MsQuantitation"
     },
     {
         "package": "ProtGenerics",
@@ -44,7 +48,27 @@
         "url": "https://github.com/rformassspectrometry/PSMatch"
     },
     {
+        "package": "QFeatures",
+        "url": "https://github.com/rformassspectrometry/QFeatures"
+    },
+    {
+        "package": "RforMassSpectrometry",
+        "url": "https://github.com/rformassspectrometry/RforMassSpectrometry"
+    },
+    {
+        "package": "Spectra",
+        "url": "https://github.com/rformassspectrometry/Spectra"
+    },
+    {
+        "package": "SpectraQL",
+        "url": "https://github.com/rformassspectrometry/SpectraQL"
+    },
+    {
         "package": "SpectraVis",
         "url": "https://github.com/rformassspectrometry/SpectraVis"
+    },
+    {
+        "package": "SpectriPy",
+        "url": "https://github.com/rformassspectrometry/SpectriPy"
     }
 ]

@@ -28,6 +28,10 @@
         "url": "https://github.com/rformassspectrometry/MsBackendMsp"
     },
     {
+        "package": "MsBackendTimsTof",
+        "url": "https://github.com/rformassspectrometry/MsBackendTimsTof"
+    },
+    {
         "package": "MsCoreUtils",
         "url": "https://github.com/rformassspectrometry/MsCoreUtils"
     },

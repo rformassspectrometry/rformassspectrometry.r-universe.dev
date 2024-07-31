@@ -60,6 +60,10 @@
         "registry": "bioc"
     },
     {
+        "package": "MsIO",
+        "url": "https://github.com/rformassspectrometry/MsIO"
+    },
+    {
         "package": "MsFeatures",
         "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
         "url": "https://github.com/rformassspectrometry/msfeatures",

@@ -24,6 +24,10 @@
         "registry": "bioc"
     },
     {
+        "package": "MsBackendMetaboLights",
+        "url": "https://github.com/rformassspectrometry/msbackendmetabolights"
+    },
+    {
         "package": "MsBackendMgf",
         "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
         "url": "https://github.com/rformassspectrometry/msbackendmgf",

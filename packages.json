@@ -1,5 +1,9 @@
 [
     {
+        "package": "Chromatograms",
+        "url": "https://github.com/rformassspectrometry/Chromatograms"
+    },
+    {
         "package": "CompoundDb",
         "maintainer": "Johannes Rainer <johannes.rainer@eurac.edu>",
         "url": "https://github.com/rformassspectrometry/compounddb",
@@ -16,6 +20,10 @@
         "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
         "url": "https://github.com/rformassspectrometry/metabocoreutils",
         "registry": "bioc"
+    },
+    {
+        "package": "Metabonaut",
+        "url": "https://github.com/rformassspectrometry/metabonaut"
     },
     {
         "package": "MsBackendMassbank",
@@ -46,6 +54,10 @@
         "registry": "bioc"
     },
     {
+        "package": "MsBackendTimsTof",
+        "url": "https://github.com/rformassspectrometry/MsBackendTimsTof"
+    },
+    {
         "package": "MsCoreUtils",
         "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
         "url": "https://github.com/rformassspectrometry/mscoreutils",
@@ -64,14 +76,19 @@
         "registry": "bioc"
     },
     {
-        "package": "MsIO",
-        "url": "https://github.com/rformassspectrometry/MsIO"
-    },
-    {
         "package": "MsFeatures",
         "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
         "url": "https://github.com/rformassspectrometry/msfeatures",
         "registry": "bioc"
+    },
+    {
+        "package": "MsIO",
+        "url": "https://github.com/rformassspectrometry/MsIO"
+    },
+    {
+        "package": "MsQuantitation",
+        "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+        "url": "https://github.com/rformassspectrometry/MsQuantitation"
     },
     {
         "package": "ProtGenerics",
@@ -92,28 +109,20 @@
         "registry": "bioc"
     },
     {
+        "package": "RforMassSpectrometry",
+        "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+        "url": "https://github.com/rformassspectrometry/RforMassSpectrometry"
+    },
+    {
         "package": "Spectra",
         "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
         "url": "https://github.com/rformassspectrometry/spectra",
         "registry": "bioc"
     },
     {
-        "package": "Chromatograms",
-        "url": "https://github.com/rformassspectrometry/Chromatograms"
-    },
-    {
-        "package": "MsBackendTimsTof",
-        "url": "https://github.com/rformassspectrometry/MsBackendTimsTof"
-    },
-    {
-        "package": "MsQuantitation",
-        "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-        "url": "https://github.com/rformassspectrometry/MsQuantitation"
-    },
-    {
-        "package": "RforMassSpectrometry",
-        "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
-        "url": "https://github.com/rformassspectrometry/RforMassSpectrometry"
+        "package": "SpectriPy",
+        "maintainer": "Johannes Rainer <johannes.rainer@eurac.edu>",
+        "url": "https://github.com/rformassspectrometry/SpectriPy"
     },
     {
         "package": "SpectraQL",
@@ -124,10 +133,5 @@
         "package": "SpectraVis",
         "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
         "url": "https://github.com/rformassspectrometry/SpectraVis"
-    },
-    {
-        "package": "SpectriPy",
-        "maintainer": "Johannes Rainer <johannes.rainer@eurac.edu>",
-        "url": "https://github.com/rformassspectrometry/SpectriPy"
     }
 ]

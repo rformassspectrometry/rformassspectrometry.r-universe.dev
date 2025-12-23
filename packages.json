@@ -1,7 +1,9 @@
 [
     {
         "package": "Chromatograms",
-        "url": "https://github.com/rformassspectrometry/Chromatograms"
+        "maintainer": "Philippine Louail <philippine.louail@outlook.com>"
+        "url": "https://github.com/rformassspectrometry/Chromatograms",
+        "registry": "bioc"
     },
     {
         "package": "CompoundDb",
@@ -33,13 +35,19 @@
     },
     {
         "package": "MsBackendMetaboLights",
-        "url": "https://github.com/rformassspectrometry/msbackendmetabolights"
+        "url": "https://github.com/rformassspectrometry/msbackendmetabolights",
+        "registry": "bioc"
     },
     {
         "package": "MsBackendMgf",
         "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
         "url": "https://github.com/rformassspectrometry/msbackendmgf",
         "registry": "bioc"
+    },
+    {
+        "package": "MsBackendMongoDb",
+        "maintainer": "Johannes Rainer <johannes.rainer@eurac.edu>",
+        "url": "https://github.com/rformassspectrometry/msbackendmongodb"
     },
     {
         "package": "MsBackendMsp",

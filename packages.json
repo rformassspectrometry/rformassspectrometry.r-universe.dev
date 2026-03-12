@@ -25,6 +25,7 @@
     },
     {
         "package": "Metabonaut",
+        "maintainer": "Philippine Louail <philippine.louail@outlook.com>",
         "url": "https://github.com/rformassspectrometry/metabonaut"
     },
     {
@@ -125,6 +126,11 @@
         "package": "RforMassSpectrometry",
         "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
         "url": "https://github.com/rformassspectrometry/RforMassSpectrometry"
+    },
+    {
+        "package": "RuSirius",
+        "maintainer": "Philippine Louail <philippine.louail@outlook.com>",
+        "url": "https://github.com/rformassspectrometry/RuSirius"
     },
     {
         "package": "Spectra",

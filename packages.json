@@ -34,6 +34,11 @@
         "registry": "bioc"
     },
     {
+        "package": "MsBackendMassIVE",
+        "maintainer": "Gabriele Tomè<gabriele.tome@eurac.edu>",
+        "url": "https://github.com/rformassspectrometry/msbackendmassive"
+    },
+    {
         "package": "MsBackendMetaboLights",
         "url": "https://github.com/rformassspectrometry/msbackendmetabolights",
         "registry": "bioc"

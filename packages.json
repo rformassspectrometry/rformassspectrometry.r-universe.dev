@@ -133,6 +133,11 @@
         "url": "https://github.com/rformassspectrometry/RuSirius"
     },
     {
+        "package": "RmzTabM",
+        "maintainer": "Johannes Rainer <johannes.rainer@eurac.edu>",
+        "url": "https://github.com/rformassspectrometry/RmzTabM"
+    },
+    {
         "package": "Spectra",
         "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
         "url": "https://github.com/rformassspectrometry/spectra",

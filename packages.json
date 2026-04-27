@@ -45,6 +45,11 @@
         "registry": "bioc"
     },
     {
+        "package": "MsBackendMetabolomicsWorkbench",
+        "maintainer": "Gabriele Tomè<gabriele.tome@eurac.edu>",
+        "url": "https://github.com/rformassspectrometry/msbackendmetabolomicsworkbench"
+    },
+    {
         "package": "MsBackendMgf",
         "maintainer": "RforMassSpectrometry Package Maintainer <maintainer@rformassspectrometry.org>",
         "url": "https://github.com/rformassspectrometry/msbackendmgf",
@@ -96,8 +101,8 @@
         "registry": "bioc"
     },
     {
-        "package": "MsIO",
-        "url": "https://github.com/rformassspectrometry/MsIO"
+        "package": "MsStash",
+        "url": "https://github.com/rformassspectrometry/MsStash"
     },
     {
         "package": "MsQuantitation",

@@ -162,5 +162,10 @@
         "package": "SpectraVis",
         "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
         "url": "https://github.com/rformassspectrometry/SpectraVis"
+    },
+    {
+        "package": "QFeaturesGUI",
+        "maintainer": "Léopold Guyot <leopold.guyot@uclouvain.be>",
+        "url": "https://github.com/rformassspectrometry/QFeaturesGUI"
     }
 ]

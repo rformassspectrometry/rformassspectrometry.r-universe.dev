@@ -164,6 +164,10 @@
         "url": "https://github.com/rformassspectrometry/SpectraVis"
     },
     {
+        "package": "StashSpectra",
+        "url": "https://github.com/rformassspectrometry/StashSpectra"
+    },
+    {
         "package": "QFeaturesGUI",
         "maintainer": "Léopold Guyot <leopold.guyot@uclouvain.be>",
         "url": "https://github.com/rformassspectrometry/QFeaturesGUI"

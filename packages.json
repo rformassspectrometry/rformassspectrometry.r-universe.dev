@@ -149,6 +149,10 @@
         "registry": "bioc"
     },
     {
+        "package": "SpectraStash",
+        "url": "https://github.com/rformassspectrometry/SpectraStash"
+    },
+    {
         "package": "SpectriPy",
         "maintainer": "Johannes Rainer <johannes.rainer@eurac.edu>",
         "url": "https://github.com/rformassspectrometry/SpectriPy"
@@ -162,10 +166,6 @@
         "package": "SpectraVis",
         "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
         "url": "https://github.com/rformassspectrometry/SpectraVis"
-    },
-    {
-        "package": "StashSpectra",
-        "url": "https://github.com/rformassspectrometry/StashSpectra"
     },
     {
         "package": "QFeaturesGUI",

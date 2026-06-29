@@ -95,6 +95,10 @@
         "registry": "bioc"
     },
     {
+        "package": "MsExperimentStash",
+        "url": "https://github.com/rformassspectrometry/MsExperimentStash"
+    },
+    {
         "package": "MsFeatures",
         "maintainer": "Johannes Rainer <Johannes.Rainer@eurac.edu>",
         "url": "https://github.com/rformassspectrometry/msfeatures",
